@@ -18,7 +18,7 @@
 9. [Using WebStorm for Building Angular Apps](https://www.youtube.com/watch?v=upgjCMHGpwo&list=PLQ176FUIyIUYnLuYVKM6JhVd6ukPgzdW7&index=17)
 10. [Debugging JavaScript in WebStorm](https://www.youtube.com/watch?v=CdXoeVRN1JU&list=PLQ176FUIyIUYnLuYVKM6JhVd6ukPgzdW7&index=18)
 11. [WebStorm: Angular 2 Tips and Tricks](https://www.youtube.com/watch?v=U-GQ8Nz8agY&list=PLQ176FUIyIUYnLuYVKM6JhVd6ukPgzdW7&index=22)
-12. [WebStorm - Things You Probably Didn’t Know] (https://www.youtube.com/watch?v=P3yGl4Kfwhs&list=PLQ176FUIyIUYnLuYVKM6JhVd6ukPgzdW7&index=25)
+12. [WebStorm - Things You Probably Didn’t Know](https://www.youtube.com/watch?v=P3yGl4Kfwhs&list=PLQ176FUIyIUYnLuYVKM6JhVd6ukPgzdW7&index=25)
 13. [WebStorm - MEAN Stack Walkthrough and Tips](https://www.youtube.com/watch?v=JnMvok0Yks8&list=PLQ176FUIyIUYnLuYVKM6JhVd6ukPgzdW7&index=32)
 14. [WebStorm - Node.js Basics](https://www.youtube.com/watch?v=EMiU8zACVgA&list=PLQ176FUIyIUYnLuYVKM6JhVd6ukPgzdW7&index=33)
 15. [WebStorm - Node.js Debugging](https://www.youtube.com/watch?v=mVYJy3C63fw&list=PLQ176FUIyIUYnLuYVKM6JhVd6ukPgzdW7&index=34)
