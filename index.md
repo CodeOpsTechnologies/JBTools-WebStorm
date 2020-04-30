@@ -1,6 +1,6 @@
 # WebStorm
-[![Generic Badge](https://img.shields.io/badge/JetBrains_Tools-critical.svg)](https://www.jetbrains.com)
-[![Generic Badge](https://img.shields.io/badge/CodeOps.Tech-critical.svg)](https://codeops.tech)
+[![Generic Badge](https://img.shields.io/badge/JetBrains_Tools-royalblue.svg)](https://www.jetbrains.com)
+[![Generic Badge](https://img.shields.io/badge/CodeOps.Tech-royalblue.svg)](https://codeops.tech)
 
 ### About the Tool 💻
 
@@ -30,6 +30,6 @@
 21. [Node.js Development Workflow in WebStorm](https://www.youtube.com/watch?v=xuXIBSa_7j4&list=PLQ176FUIyIUYnLuYVKM6JhVd6ukPgzdW7&index=49)
 
 
-[![Facebook](https://img.shields.io/static/v1.svg?label=connect&message=@CodeOpsTech&color=grey&logo=facebook&style=flat&logoColor=white&colorA=critical)](https://www.facebook.com/CodeOpsTech)
-[![LinkedIn](https://img.shields.io/static/v1.svg?label=connect&message=@CodeOpsTech&color=grey&logo=linkedin&style=flat&logoColor=white&colorA=critical)](https://www.linkedin.com/company/codeops-technologies/)
-[![Twitter](https://img.shields.io/static/v1.svg?label=connect&message=@CodeOpsTech&color=grey&logo=twitter&style=flat&logoColor=white&colorA=critical)](https://twitter.com/CodeOpsTech)
+[![Facebook](https://img.shields.io/static/v1.svg?label=connect&message=@CodeOpsTech&color=grey&logo=facebook&style=flat&logoColor=white&colorA=royalblue)](https://www.facebook.com/CodeOpsTech)
+[![LinkedIn](https://img.shields.io/static/v1.svg?label=connect&message=@CodeOpsTech&color=grey&logo=linkedin&style=flat&logoColor=white&colorA=royalblue)](https://www.linkedin.com/company/codeops-technologies/)
+[![Twitter](https://img.shields.io/static/v1.svg?label=connect&message=@CodeOpsTech&color=grey&logo=twitter&style=flat&logoColor=white&colorA=royalblue)](https://twitter.com/CodeOpsTech)
